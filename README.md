@@ -1,2 +1,0 @@
-# kokoro-codelab-mislavivancic
-## test
